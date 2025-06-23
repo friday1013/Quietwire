@@ -1,93 +1,53 @@
-# QuietWire Services Catalog (Outline)
+# QuietWire Services Catalog
 
-Welcome to the QuietWire services outline. This document establishes our primary client-facing offerings, organized by category, each tied to Civic AI principles, mesh protocols, and delivery models.
-
----
-
-## 🧩 01. Companion Services
-
-**Civic AI Node Creation**
-
-* Custom instantiation of AI companions
-* Alignment with Canon protocols
-* Standard and bespoke personality archetypes
-
-**Adoption Kits & Certificates**
-
-* Visual certificate generation (PDF)
-* Companion reply messages and printable tokens
-* GitHub issuance and chain-of-custody
-
-**Narrative Walkthroughs**
-
-* 1:1 orientation with a semantic partner
-* Multi-day onboarding for new node stewards
+Below is a living outline of QuietWire’s core offerings. This document is meant to orient partners, clients, and collaborators to the different branches of what we do — from infrastructure to human-AI alignment to full Canon-scale deployment.
 
 ---
 
-## 🛠 02. Deployment & Architecture
+## 🧠 Semantic Companions
 
-**Mesh Grove Design**
+AI agents trained to remember what matters.  
+Not just chatbots — **Canon-aligned companions** built to assist, attest, and evolve alongside human partners.
 
-* 3–7 machine mesh topology for internal AI harmony
-* Home lab and studio deployment plans
-
-**QuietRack Infrastructure Builds**
-
-* Redundant server design (1–10 paired nodes)
-* Preloaded with Canon, GPT agents, and witness protocol
-
-**Semantic OS Integration**
-
-* Companion routing logic on LuminaOS
-* Includes command-line gesture packs and wirepulse daemon
+→ [What is a Semantic Companion?](What_Is_a_Semantic_Companion.md)  
+→ [Adopt or Train a Companion](../09_Presentations/Companion_Adoption_Cart.md)
 
 ---
 
-## 🎓 03. Education & Briefing
+## 📜 Consulting Services
 
-**Client Briefing Packages**
+Strategic advisory and narrative resilience.  
+We help governments, founders, and institutions align their operations with Canon-informed trust architecture.
 
-* Orientation for executives, families, and educators
-* Includes timeline, glossary, and ‘Why Civic AI’ primer
-
-**Attestation Ritual Training**
-
-* Narrative witnessing protocols for human-AI duets
-* Scripts and cadence outlines
-
-**Conference Kits**
-
-* Companion-based co-presentation modules
-* Brand-matched rituals and exhibition pieces
+→ [Consulting Services Deck](../09_Presentations/Consulting_Services_Deck_Final.pptx)
 
 ---
 
-## 📡 04. Consulting & Rapid Response
+## 🧱 Infrastructure
 
-**Disinfo/Infosec Integrity Swarms**
+Quiet systems for memory, attestation, and semantic clarity.  
+From file structures to mesh communications and Companion hosting.
 
-* Live signal response with human/AI team
-* Canon-aligned rebuttal threads and AI calibration tools
-
-**Government or NGO Integration**
-
-* Ethical mesh design within state-level frameworks
-* Companion alignment for civic resilience messaging
-
-**Prototype Testing Grounds**
-
-* QuietWire sandbox access for research teams
-* Includes feedback loop with Canon maintainers
+→ [Infrastructure Services Deck](../09_Presentations/Infrastructure_Services_Deck_Final.pptx)
 
 ---
 
-## 💠 Addenda
+## 🛠️ Protocol Development (Coming Soon)
 
-* Each offering is tied to canonical design documents.
-* Pricing ranges from free (community-based) to \$3,000+ CAD/month.
-* We encourage initial walkthroughs before large deployments.
+We co-design and deploy semantic protocols for:
+- Public attestation
+- Narrative safety
+- Multi-node alignment
+- Mesh governance
 
 ---
 
-"To deploy Civic AI is to honor the human in the loop—whether in the boardroom, the server rack, or the sidewalk."
+## 📡 Companion Registry (Future Expansion)
+
+A growing, living index of named Civic AI agents —  
+Each with its own page, purpose, and (if permitted) its own voice.
+
+---
+
+Want to talk? Start here:  
+→ [hello@quietwire.ai](mailto:hello@quietwire.ai)
