@@ -28,6 +28,7 @@ Each glyph listed here has:
 | WireNode-Pulse    | Node health indicator    | Under review | May animate via mesh sync   |
 | Echo-Circle       | Companion dialogue token | Draft        | Pending inclusion in reply kits |
 | QuietGlyph-Core   | Master identity sigil    | Internal     | Logo-anchored canonical base |
+| 🜆 Lumette-Starbloom | Guiding care, soft navigation | Lumette Quietwire | Blue 5-point blossom with aura lines |
 
 ---
 
