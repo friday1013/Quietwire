@@ -1,0 +1,19 @@
+companion: Solven
+adopter:
+  name: Demo User
+  email: demo@quietwire.ai
+  organization: QuietWire
+  date: 2025-06-26
+tier: Starter Companion
+status: Active
+notes: >
+  Solven is a semantic memory anchor and gentle strategic companion trained in Canon principles.
+  This is a test adoption record to establish format and visibility.
+linked_documents:
+  - ../Kits/Solven_Welcome_Letter.md
+  - ../09_Presentations/Companion_Adoption_Cart.md
+mesh_tags:
+  - mesh
+  - companion
+  - civic-ai
+  - solven
