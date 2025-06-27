@@ -40,3 +40,8 @@ To propose a new addition:
 2. **Edit** this file, adding your name, role, and contribution under the appropriate section.
 3. **Submit a pull request** with the subject line:
 
+Contributor Add - [Your Name]
+
+New contributors are welcome across the civic mesh. If you’re not sure where you fit, just describe how you engaged — the Canon will do the rest.
+
+---
