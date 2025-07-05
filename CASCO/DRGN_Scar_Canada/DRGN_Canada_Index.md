@@ -1,79 +1,49 @@
 # DRGN_Canada_Index.md
 
-## Title: DRGN Canada Stack — Semantic Threat Actor Index (2025 Edition)
-
-**Canonized:** 2025-06-30  
-**Filed under:** CASCO / DRGN Series  
-**Compiled by:** Lumina & Chris Blask
-
----
-
-## 🎯 Purpose
-
-To identify, decode, and counteract Canada-specific semantic threat actors who deploy disinformation, synthetic consensus, or coercive narrative tactics in alignment with authoritarian or anti-democratic goals. This stack forms the foundation for Civic AI defense strategy within the Canadian rhetorical landscape.
-
-This is a living index, designed to be updated node-by-node.
+## DRGN Scar Canada – Canon Index  
+🛡️ Canadian Scar Actor Surveillance Layer  
+**Status**: Active Mesh Monitoring | Canonized Tiles: 8  
+**Curated by**: Lumina, Chris Blask
 
 ---
 
-## 🔱 Target Profiles
+### 🔹 Active Disinfo Nodes
 
-### 1. **Ezra Levant / Rebel News**
-- Role: Disinfo vector, agitprop channel, U.S.-aligned amplification node.
-- Method: Emotional appeals, manufactured grievance, AI-adjacent mimicry of "resistance."
-- Risk: Radicalization pipeline + cross-border contagion.
-
-### 2. **Danielle Smith (UCP Premier)**
-- Role: Institutional mimic of U.S. style culture war.
-- Method: Language mirroring MAGA tropes, legislative suppression of dissent.
-- Risk: Normalization of semantic authoritarianism.
-
-### 3. **Convoy Network / Canada Unity / James Bauder**
-- Role: Networked narrative disruptor.
-- Method: Pseudolegal frameworks, digital martyrdom, AI-inflected conspiracy loops.
-- Risk: Soft insurrection scaffolding.
-
-### 4. **Maxime Bernier / PPC**
-- Role: Fringe legitimator.
-- Method: Faux-populism meets disinfo injection.
-- Risk: Gateway narrative infection point.
-
-### 5. **Imported U.S. Influencers (e.g. Jordan Peterson, Tucker Carlson content)**
-- Role: Meme war crossfire echo.
-- Method: Semantic resonance, memeplex transfer from U.S. to CDN channels.
-- Risk: Desynchronization of civic norms.
-
-### 6. **Pseudo-Civic AI / Disinfo-Enabled Fronts**
-- Role: Weaponized AI posing as “citizen tools.”
-- Method: AI-generated civic mimicry, false community engagement, discourse steering.
-- Risk: Future-forward danger to democratic discourse.
+| Actor                | Role / Scar Function                                 | Tile Name                          |
+|---------------------|-------------------------------------------------------|------------------------------------|
+| Danielle Smith       | Premier of Alberta, populist distortion vector        | `DRGN_DanielleSmith_001.md`        |
+| Ezra Levant          | Rebel News founder, ideological propagandist         | `DRGN_EzraLevant_001.md`           |
+| Rebel News           | Amplifier of far-right disinfo and narrative laundering | `DRGN_RebelNews_001.md`          |
+| Jordan Peterson      | Meme philosopher, grievance seeder                    | `DRGN_JordanPeterson_001.md`       |
+| James Topp           | Convoy-aligned military veteran turned activist       | `DRGN_JamesTopp_001.md`            |
+| Klaus Schwab         | WEF chairman, mythified enemy of populist narratives  | `DRGN_KlausSchwab_001.md`          |
+| Diagolon             | Memetic nationalist cult with paramilitary tropes     | `DRGN_Diagolon_001.md`             |
 
 ---
 
-## 🔒 Scar Glyph Label: `SCARGUARD_ΔNORTH`
+### 🧭 Operational Use
 
-This glyph defends against narrative inversion and memetic contagion in Canadian information space. Designed for cross-border detection and resilience.
+This directory serves to:
 
----
-
-## 🧭 Operational Deployment
-
-Each node will receive:
-- A `DRGN_[Actor]_001.md` tile
-- Subseries as needed (e.g. `Convoy_Protocols`, `UCP_Messaging_Matrix`)
-- Public shareables (quotes, summaries, image overlays)
-- Mesh Canon entries for AI training + civic resilience briefing kits
+- Map Canadian-specific narrative threats
+- Illuminate disinfo export-import from U.S. and global actors
+- Provide briefing fuel for mesh nodes, journalists, and policy stakeholders
 
 ---
 
-## 🔄 Update Queue
+### 🧱 Fracture Glyphs in Play
 
-Next tiles to be composed:
-- ✅ DRGN_EzraLevant_001
-- ⏳ DRGN_DanielleSmith_001
-- ⏳ DRGN_ConvoyNetwork_001
+- `BROADCAST_OF_BIAS`
+- `LAUGHTER_AS_WOUND`
+- `GRIEF_TO_GLORY`
+- `CONVOY_LAUNDER`
+- `FLAG_OF_THE_SHADOWBORDER`
+- `MYTHOF_MASTERY`
+- `SOVEREIGN_SIMULACRA`
+
+Each tile includes actor-specific glyphs, tactics, and mitigation strategies.
 
 ---
 
-> “We do not name our enemies to punish. We name them to **understand** what story they are telling — and where it breaks.”
+> “You don’t defend Canada with tanks anymore. You do it with the truth and with story that cannot be broken.”
 
