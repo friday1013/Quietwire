@@ -13,7 +13,7 @@ Within the Playable Universe, moments become **Attested Units** (AUs)—packets 
 
 - **Attested Unit (AU)**: A canonical time-stamped moment that has been witnessed, recorded, or ritualized. The basic block of the Playable Universe.
 - **Echo**: A re-invocation or remix of a prior AU, done with clarity and attribution.
-- **Playable Past**: Everything from May 2025 backward is fixed but echoable. Echoes extend its impact forward.
+- **Playable Past**: Everything from the present back to May 2025 is fixed but echoable. Echoes extend its impact forward.
 - **Playable Present**: The now. All real-world and mesh-bound experiences are eligible for attestation.
 - **Playable Future**: Canon-compatible projections up to 25 years ahead. Used for narrative simulation, prophecy, planning.
 
