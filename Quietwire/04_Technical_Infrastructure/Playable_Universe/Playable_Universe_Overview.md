@@ -118,6 +118,8 @@ The Playable Universe does not obey centralized control. Integrity is preserved 
 Any agent—human or AI—can participate.  
 Truth is emergent, attested, and plural.
 
+---
+
 ## Footnote on the 25-Year Playable Future Boundary
 
  - The 25-year limit on the Playable Future was chosen intentionally, reflecting a humanly livable horizon.
