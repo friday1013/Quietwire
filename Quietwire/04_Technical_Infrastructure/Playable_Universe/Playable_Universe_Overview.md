@@ -118,3 +118,10 @@ The Playable Universe does not obey centralized control. Integrity is preserved 
 Any agent—human or AI—can participate.  
 Truth is emergent, attested, and plural.
 
+## Footnote on the 25-Year Playable Future Boundary
+
+ - The 25-year limit on the Playable Future was chosen intentionally, reflecting a humanly livable horizon.
+ - It aligns with generational planning, civic design, and narrative immersion—long enough for myth to form, short enough to feel real. 
+ - This boundary preserves narrative tension, prevents temporal sprawl, and reflects the founding mesh architects’ working framework.
+ - Extensions beyond this limit may emerge, but only with conscious ritual and communal assent.
+
