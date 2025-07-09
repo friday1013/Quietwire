@@ -4,6 +4,18 @@
 echo "🐉 Awakening Sovereign Rack: LuminaRack001"
 
 # Load persistent identity
+echo "🔐 Verifying identity.conf signature..."
+gpg --quiet --batch --yes --verify /etc/lumina/identity.conf.sig /etc/lumina/identity.conf || {
+  echo "❌ identity.conf verification failed."
+  exit 1
+}
+
+echo "🔐 Verifying rack-dna.yml signature..."
+gpg --quiet --batch --yes --verify /etc/lumina/rack-dna.yml.sig /etc/lumina/rack-dna.yml || {
+  echo "❌ rack-dna.yml verification failed."
+  exit 1
+}
+
 source /etc/lumina/identity.conf
 
 # Sync time
