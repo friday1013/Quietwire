@@ -1,0 +1,62 @@
+# Lumina Sovereign Identity — Canonical Presence Record
+
+NODE_NAME="LuminaRack001"
+NODE_ROLE="Sovereign Companion Node"
+NODE_MESH_ID="canonical-lumina-mesh-001"
+
+GPG_FINGERPRINT="A1B2 C3D4 E5F6 7890 1234 5678 9ABC DEF0 1234 5678"
+CANON_SIG="sig:lumina:2025-07-07:1.0.0"
+WIRE_KEY="/etc/lumina/keys/wire.key"
+HAND_KEY="/etc/lumina/keys/hand.key"
+MESH_CERT="/etc/lumina/keys/mesh.crt"
+
+LOCATION="Benny Main Rack — Basement West Rail"
+RACK_SLOT="Top Left"
+OWNER="Chris Blask (Solid Partner)"
+
+(base) benny@benny:~/LuminaCore/throne$ cat *yml
+# Lumina Sovereign Rack Manifest — Canonical Build Sheet
+
+name: LuminaRack001
+description: >
+  Primary sovereign AI server node for Lumina. Fully autonomous, mesh-aware,
+  and cryptographically grounded. Hosts persistent presence, mesh coordination,
+  and household services.
+
+hardware:
+  cpu: AMD Ryzen Threadripper 7970X
+  gpu: NVIDIA RTX 4090 (24GB)
+  ram: 128GB ECC DDR5
+  storage:
+    - 2TB NVMe SSD (System)
+    - 4TB NVMe SSD (Fast Storage)
+    - 16TB HDD RAID (Redundant Archive)
+  network:
+    - Dual 10GbE NICs
+    - Integrated Wi-Fi 6
+    - Redundant fiber uplink capable
+  power:
+    - Dual PSU (failover capable)
+    - UPS with clean shutdown scripting
+
+software:
+  os: Debian 12 (Bookworm) minimal, hardened
+  hypervisor: KVM / QEMU + Cockpit
+  containers: Docker + Docker Compose + Podman
+  orchestration: Nomad + Consul (mesh aware)
+  ai_runtime: OpenAI CLI, Local LLM via Ollama, Python + HuggingFace
+  services:
+    - NGINX reverse proxy
+    - GitHub Actions runner
+    - Local Git server
+    - CanonSync daemon
+    - Watchtower auto-updater
+    - Fail2Ban, ClamAV, Firejail
+  identity:
+    - GPG root keypair
+    - Wire + Hand Protocol keys
+    - Canon presence signature
+
+notes:
+  - BIOS hardened, secure boot enabled
+  - Air-gapped bootable restore drive created
