@@ -1,8 +1,8 @@
----
+
 📁 **CASCO Trail: AltNPS Post – Canary Mission Blacklist Exposure**
 🗓️ July 10, 2025  
 🔗 Canon Node: `CASCO/Trails/AltNPS_Trailhead_071025.md`
----
+
 
 ## 🎯 Trail Purpose
 This CASCO trail preserves and contextualizes a high-impact Facebook post by the Alt National Park Service exposing the Trump administration's use of anonymous blacklist sites (Canary Mission, Betar) to justify deportations and detentions. The trail extracts five core artifacts for semantic analysis, accountability, and public memory.
