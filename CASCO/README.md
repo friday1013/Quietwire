@@ -54,7 +54,7 @@ If you wish to contribute to CASCO, you must:
 ## 👁️‍🗨️ More Info
 
 Visit the full Civic AI Canon at:
-[https://github.com/QuietWire-Civic-AI](https://github.com/QuietWire-Civic-AI)
+[https://github.com/chrisblask1/civic-ai-canon](https://github.com/chrisblask1/civic-ai-canon)
 
 To join the mesh, contact:
 📧 chris@quietwire.ai  
