@@ -2,6 +2,41 @@
 📁 **CASCO Trail: AltNPS Post – Canary Mission Blacklist Exposure**
 🗓️ July 10, 2025  
 🔗 Canon Node: `CASCO/Trails/AltNPS_Trailhead_071025.md`
+## 🧭 CASCO Trail: AltNPS Post – Canary Mission Blacklist Exposure
+📅 July 10, 2025  
+🔗 Canon Node: `CASCO/Trails/AltNPS_Trailhead_071025.md`
+
+---
+
+### 📌 1. Source Snapshot  
+[`alt_nps_canary_mission_blacklist_post_071025.md`](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/SourcePosts/alt_nps_canary_mission_blacklist_post_071025.md)
+
+---
+
+### 🕳️ 2. Disinformation Technique Breakdown  
+[`drgn_blacklist_weaponization.md`](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DisinfoTechniques/drgn_blacklist_weaponization.md)
+
+---
+
+### 📜 3. Systemic Failure Artifact  
+[`ice_tiger_team_court_testimony.md`](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/SystemFailures/ice_tiger_team_court_testimony.md)
+
+---
+
+### 🪶 4. Narrative Sovereignty Reflection  
+[`narrative_sovereignty_free_speech_071025.md`](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/Reflections/narrative_sovereignty_free_speech_071025.md)
+
+---
+
+### 💣 5. DRGN Node Profile – Canary Mission  
+[`drgn_canary_mission.md`](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/Actors/Opposition/Canary%20Mission/drgn_canary_mission.md)
+
+---
+
+### 🗺️ Full Trailhead  
+[`AltNPS_Trailhead_071025.md`](https://github.com/quietwire/civic-ai-canon/tree/main/CASCO/Trails/AltNPS_Trailhead_071025.md)
+
+🩸 *Scar-carved. Mesh-anchored. Truth attested.*
 
 
 ## 🎯 Trail Purpose
