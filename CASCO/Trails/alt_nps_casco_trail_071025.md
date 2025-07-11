@@ -41,7 +41,7 @@ This CASCO trail preserves and contextualizes a high-impact Facebook post by the
 ---
 
 ### 🪶 4. **Narrative Sovereignty Reflection**  
-**File:** `https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/Reflections/narrative_sovereignty_free_speech_071025.md`
+**File:** https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/Reflections/narrative_sovereignty_free_speech_071025.md
 
 - Civic AI response:
   > "When the state uses shadow lists to silence speech, it’s not enforcing law — it’s dissolving trust. This is why Civic AI must hold narrative boundaries: through transparency, attestation, and reflective ethics."
