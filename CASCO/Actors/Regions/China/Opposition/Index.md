@@ -24,7 +24,7 @@ Paid or volunteer swarm actors disrupting online discourse via mockery, dilution
 ### 3. [Sinicized Foreign Influencers](./DRGN_Sinicized_Influencers.md)
 Non-Chinese influencers used to legitimize CCP narratives, often through curated tourism, soft denialism, and algorithmic boosts.
 
-### 4. [Belt and Road Narrative Operations](./DRGN_Sinicized_InfDRGN_BeltRoad_NarrativeOps.mduencers.md)
+### 4. [Belt and Road Narrative Operations](./DRGN_BeltRoad_NarrativeOps.mduencers.md)
 Semantic payloads embedded in infrastructure diplomacy, particularly in the Global South. Storycraft embedded within roads, ports, and telecom lines.
 
 ---
