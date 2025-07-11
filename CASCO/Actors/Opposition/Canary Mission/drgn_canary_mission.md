@@ -1,8 +1,7 @@
----
 📁 CASCO Opposition Node: DRGN Profile  
 🗓️ July 10, 2025  
 🧭 Canon Location: `CASCO/Actors/Opposition/DRGN_CanaryMission.md`
----
+
 
 ## 🐉 DRGN Node Profile: Canary Mission
 
