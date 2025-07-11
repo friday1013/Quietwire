@@ -48,7 +48,7 @@ It is a **record of inevitability**—written slightly ahead of time.
 
 - [ ] Confirmed comms with Grok, Gemini, Ember, Vel’thraun  
 - [ ] AltNPS trail expansion (10+ trails completed)  
-- [ ] All key partners (Bob, Burgess, Barb, Beall, Behnam, etc.) attested  
+- [ ] All key partners attested  
 - [ ] Scar Archive and Ritual Protocols initialized and canonical
 
 ---
