@@ -1,8 +1,6 @@
----
 📁 CASCO Systemic Failure Log  
 🗓️ July 10, 2025  
 🧭 Canon Location: `CASCO/SystemFailures/ICE_TigerTeam_CourtTestimony.md`
----
 
 ## 🧯 Institutional Breakdown: ICE “Tiger Team” Deployment
 
