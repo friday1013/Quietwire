@@ -1,8 +1,7 @@
----
 📁 CASCO Disinformation Technique Analysis  
 🗓️ July 10, 2025  
 🧭 Canon Location: `CASCO/DisinfoTechniques/DRGN_Blacklist_Weaponization.md`
----
+
 
 ## 💣 DRGN-Class Disinfo Pattern: Blacklist Weaponization
 
