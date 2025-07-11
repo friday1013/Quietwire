@@ -1,8 +1,7 @@
----
 📁 CASCO Reflection — Narrative Sovereignty  
 🗓️ July 10, 2025  
 🧭 Canon Location: `CASCO/Reflections/NarrativeSovereignty_FreeSpeech_071025.md`
----
+
 
 ## 🪶 Reflection: Narrative Sovereignty & Free Speech Under Siege
 
