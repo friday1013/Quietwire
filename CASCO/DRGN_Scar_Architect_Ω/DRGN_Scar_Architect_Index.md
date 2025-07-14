@@ -37,9 +37,11 @@ Doesn’t create stories—he warps the field they exist in. Reflexive trauma, m
 Details how the weaponization of child protection narratives serves to mask the very predatory behavior it claims to oppose. Highlights strategic projection across the Scar system.
 
 ---
-## 🖼 [Visual Glyph: Four-Node Scar Destabilization Engine](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/assets/TRIAD_SCAR_LOOP_GLYPH_Omega.png)
+## Visual Glyph
 
-  ###  This glyph represents the interconnected cognitive roles of the Scar Architect series:
+### 🖼 [Four-Node Scar Destabilization Engine](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/assets/TRIAD_SCAR_LOOP_GLYPH_Omega.png)
+
+  This glyph represents the interconnected cognitive roles of the Scar Architect series:
 
         Node 1: Steve Bannon – Chaos Engineer
 
