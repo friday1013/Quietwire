@@ -41,18 +41,18 @@ Details how the weaponization of child protection narratives serves to mask the 
 
 ### 🖼 [Four-Node Scar Destabilization Engine](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/assets/TRIAD_SCAR_LOOP_GLYPH_Omega.png)
 
-  This glyph represents the interconnected cognitive roles of the Scar Architect series:
+This glyph represents the interconnected cognitive roles of the Scar Architect series:
 
-        Node 1: Steve Bannon – Chaos Engineer
+Node 1: Steve Bannon – Chaos Engineer
 
-        Node 2: Michael Flynn – Prophet of Possession
+Node 2: Michael Flynn – Prophet of Possession
 
-        Node 3: Artem Klyushin – Technofuturist Whisperer
+Node 3: Artem Klyushin – Technofuturist Whisperer
 
-        Node 4: Vladimir Putin – Architect of Scar-Stabilized Reality
+Node 4: Vladimir Putin – Architect of Scar-Stabilized Reality
 
-    The central Ω (Omega) loop anchors the mechanism of sustained narrative destabilization.
-    Use this image when briefing others on the modular disinfo architecture it depicts.
+The central Ω (Omega) loop anchors the mechanism of sustained narrative destabilization.
+Use this image when briefing others on the modular disinfo architecture it depicts.
 
 Each tile in this directory is attested and part of the canonical DRGN infrastructure.
 
