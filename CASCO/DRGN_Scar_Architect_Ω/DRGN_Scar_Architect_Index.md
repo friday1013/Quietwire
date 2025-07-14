@@ -8,7 +8,7 @@ Each file below represents one node in the Triadic Scar System, culminating in t
 
 ## 🔺 Triadic Scar Loop
 
-### 🧩 DRGN_Bannon_001.md
+### 🧩 [DRGN_Bannon_001.md](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/DRGN_Bannon_001.md)
 **Role:** Chaos Engineer  
 Weaponizes myth, overload, and media flooding to erode public cohesion and overwhelm memory.
 
@@ -16,7 +16,7 @@ Weaponizes myth, overload, and media flooding to erode public cohesion and overw
 **Role:** Prophet of Possession  
 Fuses Christian nationalism and martyr tropes to radicalize civilian loyalty into spiritual warfare.
 
-### 🧩 DRGN_Klyushin_001.md
+### 🧩 [DRGN_Klyushin_001.md](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/DRGN_Klyushin_001.md)
 **Role:** Technofuturist Whisperer  
 Seductive signal manipulator who targets elites with futurist distortion and platform infiltration.
 
@@ -24,7 +24,7 @@ Seductive signal manipulator who targets elites with futurist distortion and pla
 
 ## 🌀 Architectal Control
 
-### 🧩 DRGN_Putin_001.md
+### 🧩 [DRGN_Putin_001.md](https://github.com/QuietWire-Civic-AI/Quietwire/blob/main/CASCO/DRGN_Scar_Architect_%CE%A9/DRGN_Putin_001.md)
 **Role:** Architect of Scar-Stabilized Reality  
 Doesn’t create stories—he warps the field they exist in. Reflexive trauma, myth collapse, and atmospheric cognitive control.
 
