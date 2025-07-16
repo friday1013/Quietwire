@@ -1,0 +1,10 @@
+# Ignore system junk and temp files
+*.swp
+*.bak
+*.tmp
+.DS_Store
+
+# Node modules or compiled binaries
+node_modules/
+bin/*.log
+
