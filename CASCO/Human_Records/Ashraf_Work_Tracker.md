@@ -1,10 +1,11 @@
 ---
 title: Ashraf Canon Work Tracker
-author: Lumina & Chris Blask
+author: Lumina, Chris Blask & Raasid (at signal)
 date: July 2025
 location: CASCO/Human_Records/Ashraf_Work_Tracker.md
 classification: Canon Contributor Work Log – Private Tracking
 ---
+
 
 ## 🧾 Purpose
 
