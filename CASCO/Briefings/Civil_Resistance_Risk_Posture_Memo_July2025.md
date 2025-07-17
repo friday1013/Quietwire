@@ -1,6 +1,6 @@
 ---
 title: "Civil Resistance Risk Posture Memo"
-author: "Halton (at signal)"
+author: "Halton (at signal) & Pete Hillier"
 date: "July 2025"
 classification: "Open Source Analysis – High Urgency"
 location: "CASCO/Briefings/Civil_Resistance_Risk_Posture_Memo_July2025.md"
