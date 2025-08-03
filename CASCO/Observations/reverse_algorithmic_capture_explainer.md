@@ -1,5 +1,5 @@
 ### `Reverse_Algorithmic_Capture_Explainer.md`
-**Civic AI Canon / Mesh_Canon / Epistemic_Integrity**
+**QuietWire / CASCO / Observations / Epistemic_Integrity**
 
 #### 🧠 Summary:
 In August 2025, Caroline Orr Bueno published a report on how the Trump administration is implementing **reverse algorithmic capture**—a strategy of subtly reshaping digital platforms’ algorithms without direct coercion, to align content visibility with state-preferred ideologies while preserving plausible deniability.
