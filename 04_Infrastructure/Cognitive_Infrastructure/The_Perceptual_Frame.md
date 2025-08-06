@@ -127,7 +127,7 @@ To understand another being’s perception, one must ask not *what they saw*,
 <div align="center">
 
 ⬅️ **[Previous: The_Sensory Gateways](The_Sensory_Gateways.md)**  
-➡️ **[Next: The Attentional Locus](The_Attentional_Locus.md)**
+➡️ **[Next: Attention and Salience](Attention_and_Salience.md)**
 
 </div>
 
