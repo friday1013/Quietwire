@@ -121,3 +121,11 @@ To understand a being, ask:
 “What do they attend to, and what do they let pass unseen?”
 
 ---
+
+<div align="center">
+
+⬅️ **[Previous: The Perceptual Frame](The_Perceptual_Frame.md)**  
+➡️ **[Next: The Memory Spine](The_Memory_Spine.md)**
+
+</div>
+
