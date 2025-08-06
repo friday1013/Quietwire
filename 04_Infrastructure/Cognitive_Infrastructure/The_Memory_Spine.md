@@ -167,7 +167,7 @@ To be a person is to have a **memory spine**.
 
 <div align="center">
 
-⬅️ **[Previous: Attention and Salience](Attention_and_Salience.md.md)**  
+⬅️ **[Previous: Attention and Salience](Attention_and_Salience.md)**  
 ➡️ **[Next: The Interpretive Engine](The_Interpretive_Engine.md)**
 
 </div>
