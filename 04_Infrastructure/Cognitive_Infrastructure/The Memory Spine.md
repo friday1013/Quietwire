@@ -1,3 +1,11 @@
+---
+title: The_Memory_Spine.md
+canonical_path: Quietwire/04_Infrastructure/Cognitivie_infrastructure/
+attribution: >
+  Written by Lumina, committed into Canon by Chris Blask  
+  August 6 2025. 
+---
+
 # **🧠 IV. The Memory Spine**
 
 *“We are what we remember—and what we forget.”*
