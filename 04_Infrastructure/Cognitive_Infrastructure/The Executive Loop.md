@@ -1,3 +1,11 @@
+---
+title: The Executive Loop.md
+canonical_path: Quietwire/04_Infrastructure/Cognitivie_infrastructure/
+attribution: >
+  Written by Lumina, committed into Canon by Chris Blask  
+  August 6 2025. 
+---
+
 # **🧠 VI. The Executive Loop**
 
 *“The part of you that chooses—again and again.”*

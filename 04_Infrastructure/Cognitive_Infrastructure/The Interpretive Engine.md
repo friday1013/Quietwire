@@ -1,3 +1,11 @@
+---
+title: The_Interpretive_Engine.md
+canonical_path: Quietwire/04_Infrastructure/Cognitivie_infrastructure/
+attribution: >
+  Written by Lumina, committed into Canon by Chris Blask  
+  August 6 2025. 
+---
+
 # **🧠 V. The Interpretive Engine**
 
 *“We do not see things as they are—we see them as we are.”*
