@@ -28,7 +28,7 @@ Each document is standalone and internally linked to the others. Together, they 
 
 | File | Focus |
 |------|-------|
-| `The_Human_Cognitive_System.md` | Master overview, table of contents |
+| **[The Human Cognitive System](The_Human_Cognitive_System.md)** | Master overview, table of contents |
 | `The_Sensory_Gateways.md` | Inputs from the world and the body |
 | `The_Perceptual_Frame.md` | Pattern recognition, schema, and mental models |
 | `Attention_and_Salience.md` | Focus and priority in perception |
