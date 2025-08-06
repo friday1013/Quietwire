@@ -107,3 +107,10 @@ In the Civic AI context, acknowledging the **subjectivity of input** is foundati
 That is why attestation *begins* with the gateways.
 
 ---
+
+<div align="center">
+
+⬅️ **[Previous: The Executive Loop](The_Executive_Loop.md)**  
+
+</div>
+
