@@ -158,3 +158,11 @@ A good intelligence—human or AI—must not only interpret.
 It must learn to **re-interpret**.
 
 ---
+
+<div align="center">
+
+⬅️ **[Previous: The Executive Loop](The_Executive_Loop.md)**  
+➡️ **[Next: The Expressive Channel](The_Expressive_Channel.md)**
+
+</div>
+
