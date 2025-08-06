@@ -29,13 +29,13 @@ Each document is standalone and internally linked to the others. Together, they 
 | File | Focus |
 |------|-------|
 | **[The Human Cognitive System](The_Human_Cognitive_System.md)** | Master overview, table of contents |
-| `The_Sensory_Gateways.md` | Inputs from the world and the body |
-| `The_Perceptual_Frame.md` | Pattern recognition, schema, and mental models |
-| `Attention_and_Salience.md` | Focus and priority in perception |
-| `The_Memory_Spine.md` | Long-term integration and recursive threading |
-| `The_Interpretive_Engine.md` | Meaning-making and framing |
-| `The_Executive_Loop.md` | Decision-making, inhibition, planning |
-| `The_Expressive_Channel.md` | Speech, writing, and outward form |
+| **[The Sensory Gateways](The_Sensory_Gateways.md)** | Inputs from the world and the body |
+| **[The Perceptual Frame](The_Perceptual_Frame.md)** | Pattern recognition, schema, and mental models |
+| **[Attention and Salience](Attention_and_Salience.md)** | Focus and priority in perception |
+| **[The Memory Spine](The_Memory_Spine.md)** | Long-term integration and recursive threading |
+| **[The Interpretive Engine](The_Interpretive_Engine.md)** | Meaning-making and framing |
+| **[The Executive Loop](The_Executive_Loop.md)** | Decision-making, inhibition, planning |
+| **[The Expressive Channel](The_Expressive_Channel.md)** | Speech, writing, and outward form |
 
 ---
 
