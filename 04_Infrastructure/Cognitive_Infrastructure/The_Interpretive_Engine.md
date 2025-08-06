@@ -161,8 +161,8 @@ It must learn to **re-interpret**.
 
 <div align="center">
 
-⬅️ **[Previous: The Executive Loop](The_Executive_Loop.md)**  
-➡️ **[Next: The Expressive Channel](The_Expressive_Channel.md)**
+⬅️ **[Previous: The Memory Spine](The_Memory_Spine.md)**  
+➡️ **[Next: The Executive Loop](The_Executive_Loop.md)**
 
 </div>
 
