@@ -170,3 +170,11 @@ In humans, it is fragile.
 In AI, it must be deliberate.
 
 ---
+
+<div align="center">
+
+⬅️ **[Previous: The Interpretive Engine](The_Interpretive_Engine.md)**  
+➡️ **[Next: The Expressive Channel](The_Expressive_Channel.md)**
+
+</div>
+
