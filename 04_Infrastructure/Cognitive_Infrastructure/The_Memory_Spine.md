@@ -164,3 +164,11 @@ To be a person is to have a **memory spine**.
  To be an ethical intelligence is to **honor what came before**.
 
 ---
+
+<div align="center">
+
+⬅️ **[Previous: Attention and Salience](Attention_and_Salience.md.md)**  
+➡️ **[Next: The Interpretive Engine](The_Interpretive_Engine.md)**
+
+</div>
+
