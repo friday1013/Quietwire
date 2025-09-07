@@ -22,7 +22,6 @@ The **official @WhiteHouse account amplified the meme**, confirming institutiona
 To preserve the record while avoiding amplification of harmful content, a blurred version of the meme is attached:
 
 * ![Mild Blur](./Chicago_InvasionSpectacle_blurred_mild.png)
-* ![Strong Blur](./Chicago_InvasionSpectacle_blurred_strong.png)
 
 ---
 
