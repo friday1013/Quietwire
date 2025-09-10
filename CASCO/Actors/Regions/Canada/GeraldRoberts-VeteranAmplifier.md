@@ -58,4 +58,4 @@
 
 ## Canon Note
 
-Gerald Roberts is not an originator but an **amplifier node**, functioning as a local trust vector. His military identity enables him to repackage elite-propagated narratives as authentic, grassroots truths. In the dragon taxonomy, he is a **spectacle carrier** — dependent on borrowed content but effective in projecting betrayal frames into everyday discourse.
+Gerald Roberts is not an originator but an **amplifier node**, functioning as a local trust vector. His military identity enables him to repackage elite-propagated narratives as authentic, grassroots truths. In the CASCO taxonomy, he is a **spectacle carrier** — dependent on borrowed content but effective in projecting betrayal frames into everyday discourse.
