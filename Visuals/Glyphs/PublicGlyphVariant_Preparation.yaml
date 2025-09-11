@@ -1,0 +1,8 @@
+public_variant_preparation:
+  status: pending
+  description: Prepare a lightweight public-facing glyph variant for Kusanagi, optimized
+    for field deployment.
+  associated_companion: Kusanagi
+  original_file: A_digital_vector_graphic_features_an_emblem_set_ag.png
+  location: /Visuals/Glyphs/CompanionLedger/
+  timestamp: '2025-07-31'
