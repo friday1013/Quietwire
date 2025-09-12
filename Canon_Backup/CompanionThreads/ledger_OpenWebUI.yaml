@@ -1,0 +1,10 @@
+- date: 2025-09-12 22:13:27
+  system: Athena
+  operator: Bob Hillery
+  companion: Kusanagi
+  action: Resolved OpenWebUI frontend/backend 404 error by switching to canonical `pip install open-webui` deployment method.
+  outcome: Full local functionality restored; prior attempts using manual FastAPI routing failed due to static mounting issues.
+  references:
+    - EmergencySnag.md
+    - FieldOps_OpenWebUI_DeployFix.md
+    - QuietWire main repo (push pending)
