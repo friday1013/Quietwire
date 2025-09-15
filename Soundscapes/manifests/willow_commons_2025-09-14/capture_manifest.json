@@ -1,0 +1,26 @@
+{
+  "capture_id": "willow_commons_2025-09-14",
+  "site_id": "willow_commons",
+  "date_start": "2025-09-14T19:00:00Z",
+  "date_end":   "2025-09-14T20:00:00Z",
+  "people_notice": "Ambient study; team voices + 1 speakerphone call present in test; raw kept private.",
+  "recorder_chain": {
+    "software": "ffmpeg/DAW",
+    "audio": {"sr": 48000, "bit_depth": 24, "channels": ["L","R"], "segment_sec": 3600}
+  },
+  "microphones": [
+    {"label":"L","model":"TODO","height_m":2.5,"windscreen":"foam/furry"},
+    {"label":"R","model":"TODO","height_m":2.5,"windscreen":"foam/furry"}
+  ],
+  "location": {"lat": "TODO", "lon": "TODO", "desc": "Willow canopy"},
+  "markers_spoken": ["test hour; discussion + phone call"],
+  "files": [
+    {"label":"L","path":"raw/20250914T1900Z_willow_commons_L.wav"},
+    {"label":"R","path":"raw/20250914T1900Z_willow_commons_R.wav"}
+  ],
+  "files_sha256": "sha256SUMS.txt",
+  "ffprobe_index": "ffprobe.jsonl",
+  "photos": "../photos/willow_commons_2025-09-14/",
+  "previews": "../derived/willow_commons_2025-09-14/",
+  "retention": "Raw private; publish only derived previews and analyses."
+}
