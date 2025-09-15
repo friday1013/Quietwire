@@ -102,4 +102,4 @@ tar -czf "Soundscapes/manifests/<capture_id>/attestation_bundle_<capture_id>.tar
 Want your location captured or have existing ambient recordings?
 
 * Open an issue with your site, time window, and privacy constraints.
-* Or email **[team@quietwire.ai](mailto:team@quietwire.ai)** with “Soundscapes” in the subject.
+* Or email **[soundscapes@quietwire.ai](mailto:soundscapes@quietwire.ai)** with “Soundscapes” in the subject.
