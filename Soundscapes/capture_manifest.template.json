@@ -1,0 +1,17 @@
+{
+  "capture_id": "site_YYYY-MM-DD",
+  "site_name": "",
+  "start_utc": "",
+  "end_utc": "",
+  "samplerate_hz": 48000,
+  "bit_depth": 24,
+  "channels": 2,
+  "recorder": "",
+  "mic": "",
+  "cable_run_m": 0,
+  "hp_filter_hz": 0,
+  "weather_notes": "",
+  "privacy": "ambient-only; no identifiable conversations are published",
+  "sha256": {},
+  "notes": []
+}
