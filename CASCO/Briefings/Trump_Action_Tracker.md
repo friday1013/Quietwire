@@ -1,8 +1,8 @@
 # 🧭 CASCO Briefing: Trump Action Tracker
 
-**Link:** [trumpactiontracker.info](https://www.trumpactiontracker.info/)
-**File:** `CASCO/Briefings/Trump_Action_Tracker.md`
-**Source:** Independent civic data project (Prof. Christina Pagel, UCL)
+### Link: [trumpactiontracker.info](https://www.trumpactiontracker.info/)
+### File: `CASCO/Briefings/Trump_Action_Tracker.md`
+### Source: Independent civic data project (Prof. Christina Pagel, UCL)
 
 ---
 
