@@ -27,7 +27,7 @@ When these layers are aligned, a statement can travel the full loop:
 
 * a person or AI **attests** to something real,
 * the attestation is **recorded** in CAP,
-* **published** through D-BOM,
+* **published** through DBoM,
 * **interpreted** and **remembered** in the Canon,
 * and **mirrored** across the Mesh for all who wish to see.
 
@@ -39,7 +39,7 @@ It is not a hierarchy—it is respiration: meaning ↔ evidence ↔ publication 
 ### **How the Next Attestation Moves**
 
 Imagine we want to attest to something simple:
-*“A presentation was given to the Linux Foundation S-BOM Coffee Call on October 27 2025, demonstrating the Canon-based D-BOM architecture.”*
+*“A presentation was given to the Linux Foundation S-BOM Coffee Call on October 27 2025, demonstrating the Canon-based DBoM architecture.”*
 
 1. **Canon — the spark.**
    You and I draft that sentence as a short narrative in the Canon repository. It becomes a statement of intent: what happened, who was there, why it matters.
