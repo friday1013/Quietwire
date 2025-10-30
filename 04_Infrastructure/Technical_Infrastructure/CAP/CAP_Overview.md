@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive and Detailed Description of the Civic AI Canon Platform (CAP)"
+title: "Comprehensive and Detailed Description of the Civic Attestation Platform (CAP)"
 version: "v1.0"
 status: "Canonical English Translation"
 authors:
@@ -20,12 +20,12 @@ tags: ["CAP", "Civic AI", "Canon Platform", "Architecture", "Governance", "Imple
 
 ---
 
-# Comprehensive and Detailed Description of the Civic AI Canon Platform (CAP)
+# Comprehensive and Detailed Description of the Civic Attestation Platform (CAP)
 
 > **Purpose:** A full, precise English translation of the Arabic master document describing CAP’s vision, components, architecture, governance, security, and operations. Formatted as Markdown, preserving structure and intent for vendor handoff and internal alignment.
 
 ## 1. Executive Summary
-The **Civic AI Canon Platform (CAP)** is a verifiable, provenance‑first platform that anchors organizational knowledge, decisions, and actions into an **attested semantic canon**. It merges content, conversations, code, and operational events with cryptographic attestations and repository‑backed records (e.g., GitHub commits), enabling **semantic trust** across teams and stakeholders.
+The **Civic Attestation Platform (CAP)** is a verifiable, provenance‑first platform that anchors organizational knowledge, decisions, and actions into an **attested semantic canon**. It merges content, conversations, code, and operational events with cryptographic attestations and repository‑backed records (e.g., GitHub commits), enabling **semantic trust** across teams and stakeholders.
 
 CAP serves multi‑institution deployments via **multi‑tenant** architecture, supports **local/sovereign operation**, and integrates with existing developer and content workflows. The outcome is a living Canon that makes **who did what, when, and why** durable and inspectable.
 
