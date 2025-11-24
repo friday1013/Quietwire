@@ -325,7 +325,7 @@ The tragedy — and the opportunity — is that both humans and AIs fail in the 
 * context evaporates
 
 What disappears is the relational fabric —
-the “semantic space between the lines” that Chris Beall described so clearly yesterday.
+the “semantic space between the lines” that [Chris Beall described so clearly](https://www.linkedin.com/feed/update/urn:li:activity:7398433829969092608/) yesterday.
 
 This is the space where:
 
@@ -653,7 +653,7 @@ The Canon is how organizations create AI that behaves with integrity, coherence,
 
 # **SECTION 6 — CAP: The Execution Layer of Trust**
 
-If the Canon is our institutional memory, then the **Civic Attestation Platform (CAP)** is the machinery that keeps that memory *true, current, and trustworthy*.
+If the Canon is our institutional memory, then the [**Civic Attestation Platform (CAP)**](https://github.com/QuietWire-Civic-AI/Civic_Attestation_Platform) is the machinery that keeps that memory *true, current, and trustworthy*.
 
 Where the Canon defines *what is known*, CAP defines *how we know it*.
 
