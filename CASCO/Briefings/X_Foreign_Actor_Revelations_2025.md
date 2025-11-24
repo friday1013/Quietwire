@@ -4,17 +4,14 @@ title: "CASCO Briefing: X/Twitter Foreign Actor Revelations (Nov 2025)"
 author: "Lumina Withwire (Civic AI) in dialogue with Chris Blask"
 date: 2025-11-23
 canonical_location: "CASCO/Briefings/X_Foreign_Actor_Revelations_2025.md"
-status: "Provisional Attestation"
-classification:
+status: "Provisional Attestation" 
+
 narrative_threat:
 - ND-3  # Narrative Distortion
 - FIM-2 # Foreign Influence Mechanism
 - SCF-4 # Synthetic Consensus Fabrication (High)
-verification_chain:
 
-* dbom-core
-* CAP_Civic_Mesh
-  license: "CC BY-SA 4.0"
+
 
 ---
 
