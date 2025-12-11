@@ -264,14 +264,4 @@ A stable, democratic AI future requires:
 
 CASCO encourages policymakers, defense leaders, civil society, researchers, and AI developers to urgently examine the governance structure around GenAI.mil and ensure that national security innovation proceeds with **deliberate care**, **ethical grounding**, and **institutional clarity**.
 
----
-
-If you'd like, I can also produce:
-
-* **a shorter 1-page version**
-* **a journalist-targeted version**
-* **a policy briefing for Congress or Canadian defence**
-* **a podcast/YouTube script for you to present publicly**
-* **a technical addendum for IL5/Gemini specialists**
-
-Just tell me which form factor you want next.
+-
