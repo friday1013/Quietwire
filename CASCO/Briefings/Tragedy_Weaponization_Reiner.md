@@ -6,6 +6,7 @@ date_context: December 2025
 scope: Public Narrative / Political Psychology / Information Conflict
 status: Public-facing / Analytical
 alignment: CASCO Framework
+---
 --------------------------
 
 # Weaponized Tragedy as Narrative Warfare
