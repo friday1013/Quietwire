@@ -1,3 +1,9 @@
+---
+title: Conversational Manifolds - A Formal Model of Emergent Cognitive Agents in Human–AI Systems
+date: December 18, 2025
+authors: Chris Blask, Lumina (Civic AI)
+---
+
 # **Conversational Manifolds: A Formal Model of Emergent Cognitive Agents in Human–AI Systems**
 
 *(Appendix to Interpersonal Manifold Theory)*
